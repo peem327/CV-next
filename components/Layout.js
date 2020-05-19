@@ -3,11 +3,6 @@ import Head from "next/head";
 import Navbar from "../containers/Navbar"
 import Footer from "./Footer";
 
-// import Link from "next/link";
-
-//import "../static/css/style.scss";
-
-
 class Layout extends Component {
 
     render() {
