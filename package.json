@@ -1,0 +1,24 @@
+{
+  "name": "CV-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "mdbreact": "^4.26.1",
+    "next": "^9.4.1",
+    "nodemailer": "^6.4.6",
+    "php": "0.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sass": "^1.26.5"
+  }
+}
